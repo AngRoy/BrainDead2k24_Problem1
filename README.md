@@ -1,3 +1,8 @@
+➡️ [REPORT LINK](https://www.canva.com/design/DAGBi0HYSrE/_hTD0LN3rP47EzJ-18ctQA/view?utm_content=DAGBi0HYSrE&utm_campaign=designshare&utm_medium=link&utm_source=editor)
+
+<h1>1️⃣ Problem Statement 1</h1>
+➡️ GitHub Repository - https://github.com/AngRoy/BrainDead2k24_Problem1
+
 # Analysis
 * Concatenate the two tables of the problem 1 dataset - https://www.kaggle.com/datasets/braindeadiiest/brain-dead-rice-production-data-in-india?rvi=1
 * Run the notebook **[ps1_data_preprocessing.ipynb](ps1_data_preprocessing.ipynb)** on this concatenated csv file to obtain **[processed_ds1.csv](processed_ds1.csv)** and **[pre_processed_ds1.csv](pre_processed_ds1.csv)**
@@ -11,3 +16,6 @@
 
 # External Dataset
 * Run the notebook **[External_Dataset/rice.ipynb](External_Dataset/rice.ipynb)** on **[External_Dataset/rice_aggregated_2004_2020.csv](External_Dataset/rice_aggregated_2004_2020.csv)** to analyse how rice production is affected by external factors such as rainfall etc.
+
+<h1>2️⃣ Problem Statement 2</h1>
+➡️ GitHub Repository - https://github.com/riyaa14/BrainDead_Hackathon
