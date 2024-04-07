@@ -3,7 +3,7 @@
 * Run the notebook **[ps1_data_preprocessing.ipynb](ps1_data_preprocessing.ipynb)** on this concatenated csv file to obtain **[processed_ds1.csv](processed_ds1.csv)**
 * The jupyter notebook **[Problem1Analysis_EDA.ipynb](Problem1Analysis_EDA.ipynb)** is used for all the analysis tasks. Run this notebook on **[processed_ds1.csv](processed_ds1.csv)** file for EDA.
 
-* For creating **[Cluster Map of Rice Production](clustermap.ipynb)**  we needed data such that it doesnot contain any NaN values neither any empty values, one approach was to replace those cells with the column mean but for this analysis we used **[processed_ds1_telengana_predicted.csv](processed_ds1_telengana_predicted.csv)** where by analysing the future trends of the state earlier values have been predicted.
+* For creating **[Cluster Map of Rice Production](clustermap.ipynb)**  we needed data such that it doesnot contain any NaN values neither any empty values, one approach was to replace those cells with the column median but for this analysis we used **[processed_ds1_telengana_predicted.csv](processed_ds1_telengana_predicted.csv)** where by analysing the future trends of the state earlier values have been predicted.
 
 # Forecast
 * Run the notebook **[Forecast_without_AP&Telangana.ipynb](Forecast_without_AP&Telangana.ipynb)** on **[processed_ds1.csv](processed_ds1.csv)** to forecast rice production of all states except Andhra Pradesh & Telangana for the next 5 years (2023-28).
