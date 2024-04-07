@@ -3,6 +3,8 @@
 <h1>1️⃣ Problem Statement 1</h1>
 ➡️ GitHub Repository - https://github.com/AngRoy/BrainDead2k24_Problem1
 
+<h2>⭐ Rice Production Analysis and Prediction</h2>
+
 # Analysis
 * Concatenate the two tables of the problem 1 dataset - https://www.kaggle.com/datasets/braindeadiiest/brain-dead-rice-production-data-in-india?rvi=1
 * Run the notebook **[ps1_data_preprocessing.ipynb](ps1_data_preprocessing.ipynb)** on this concatenated csv file to obtain **[processed_ds1.csv](processed_ds1.csv)** and **[pre_processed_ds1.csv](pre_processed_ds1.csv)**
