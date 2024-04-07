@@ -1,6 +1,6 @@
 # Analysis
 * Concatenate the two tables of the problem 1 dataset - https://www.kaggle.com/datasets/braindeadiiest/brain-dead-rice-production-data-in-india?rvi=1
-* Run the notebook **[ps1_data_preprocessing.ipynb](ps1_data_preprocessing.ipynb)** on this concatenated csv file to obtain **[processed_ds1.csv](processed_ds1.csv)**
+* Run the notebook **[ps1_data_preprocessing.ipynb](ps1_data_preprocessing.ipynb)** on this concatenated csv file to obtain **[processed_ds1.csv](processed_ds1.csv)** and **[pre_processed_ds1.csv](pre_processed_ds1.csv)**
 * The jupyter notebook **[Problem1Analysis_EDA.ipynb](Problem1Analysis_EDA.ipynb)** is used for all the analysis tasks. Run this notebook on **[processed_ds1.csv](processed_ds1.csv)** file for EDA.
 
 * For creating **[Cluster Map of Rice Production](clustermap.ipynb)**  we needed data such that it doesnot contain any NaN values neither any empty values, one approach was to replace those cells with the column median but for this analysis we used **[processed_ds1_telengana_predicted.csv](processed_ds1_telengana_predicted.csv)** where by analysing the future trends of the state earlier values have been predicted by our model.
